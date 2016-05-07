@@ -1,4 +1,4 @@
-## Nodejs port of https://github.com/bigmoby/ethereumjs-accounts-meteor.git, added possibility to work within meteor server context
+## Meteor (server side) port of https://github.com/bigmoby/ethereumjs-accounts.git, added possibility to work within meteor server context
 
 
 ## Licence
